@@ -2,7 +2,7 @@
 
 ### Technical Requirements
 
-To run the program, the first step is to have Ruby and the following installed on your system.
+To run the program, the first step is to have Ruby installed on your system.
 
 Next, enter the following commands into your terminal:
 
