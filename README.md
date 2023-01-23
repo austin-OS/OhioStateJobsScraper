@@ -1,4 +1,4 @@
-# Ohio State Jobs Web Scraper
+# Ohio State Jobs Scraper
 
 ### Technical Requirements
 
